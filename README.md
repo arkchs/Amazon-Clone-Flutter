@@ -1,4 +1,5 @@
-# amazon
+# Amazon Clone
+## Made with Flutter and Node.js, this clone app has all the main views included.
 
 A new Flutter project.
 
